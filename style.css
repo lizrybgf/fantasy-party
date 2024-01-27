@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/vibrant-purple-watercolor-painting-background_53876-145046.jpg);
+}
+
+header{
+    font-size: 20px;
+    background: darkturquoise;
+    color: darkblue;    
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid aqua;
+    border-radius: 7px;
+}
+header a{
+    text-decoration: none;
+    background-color: white;
+    color: blue;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+nav{
+    background-color: slateblue;
+}
+
+nav a{
+    text-decoration: none;
+    color: ghostwhite;
+    text-align: center;
+    font-size: 20px;
+    margin: 10px 20px 10px 20px;
+    margin-inline-start: ;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: wheat;
+    color: darkmagenta;
+    border: 3px dashed darkorchid;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer{
+    background-color: slategrey;
+    border: 10px double deepskyblue;
+}
+
+footer p{
+    background-color: ghostwhite;
+    font-size: 20px;
+    text-align: center;
+}
